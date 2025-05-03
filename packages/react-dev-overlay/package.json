@@ -18,7 +18,7 @@
     "typescript": "tsec --noEmit -p tsconfig.json"
   },
   "dependencies": {
-    "@babel/code-frame": "7.26.2",
+    "@babel/code-frame": "7.27.1",
     "@types/babel__code-frame": "7.0.6",
     "anser": "2.3.2",
     "chalk": "5.4.1",
