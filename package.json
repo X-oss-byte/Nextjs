@@ -161,7 +161,7 @@
     "ky": "1.8.1",
     "ky-universal": "0.12.0",
     "lerna": "8.2.2",
-    "lint-staged": "15.5.1",
+    "lint-staged": "15.5.2",
     "lodash": "4.17.21",
     "lost": "9.0.2",
     "minimatch": "9.0.5",
