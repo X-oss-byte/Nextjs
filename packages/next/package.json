@@ -312,7 +312,7 @@
     "web-vitals": "3.5.2",
     "webpack": "5.99.9",
     "webpack-sources1": "npm:webpack-sources@3.3.0",
-    "webpack-sources3": "npm:webpack-sources@3.2.3",
+    "webpack-sources3": "npm:webpack-sources@3.3.0",
     "ws": "8.18.2"
   },
   "engines": {
