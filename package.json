@@ -211,7 +211,7 @@
     "seedrandom": "3.0.5",
     "selenium-webdriver": "4.33.0",
     "semver": "7.7.2",
-    "shell-quote": "1.8.2",
+    "shell-quote": "1.8.3",
     "strip-ansi": "7.1.0",
     "styled-components": "6.1.18",
     "styled-jsx": "5.1.7",
