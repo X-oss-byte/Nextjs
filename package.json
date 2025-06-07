@@ -59,9 +59,9 @@
   },
   "devDependencies": {
     "@babel/core": "7.27.4",
-    "@babel/eslint-parser": "7.27.1",
-    "@babel/generator": "7.27.3",
-    "@babel/parser": "7.27.4",
+    "@babel/eslint-parser": "7.27.5",
+    "@babel/generator": "7.27.5",
+    "@babel/parser": "7.27.5",
     "@babel/plugin-proposal-object-rest-spread": "7.20.7",
     "@babel/preset-flow": "7.27.1",
     "@babel/preset-react": "7.27.1",
@@ -236,8 +236,8 @@
     "caniuse-lite": "1.0.30001721",
     "@types/node": "22.15.21",
     "@babel/core": "7.27.4",
-    "@babel/parser": "7.27.4",
-    "@babel/types": "7.27.3",
+    "@babel/parser": "7.27.5",
+    "@babel/types": "7.27.6",
     "@babel/traverse": "7.27.4",
     "@types/react": "18.3.23",
     "@types/react-dom": "18.3.7"
