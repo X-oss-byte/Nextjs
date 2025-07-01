@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "electron": "22.3.25",
+    "electron": "28.3.2",
     "spectron": "7.0.0"
   }
 }
