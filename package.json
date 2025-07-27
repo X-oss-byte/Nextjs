@@ -237,7 +237,7 @@
     "@types/node": "20.19.9",
     "@babel/core": "7.28.0",
     "@babel/parser": "7.28.0",
-    "@babel/types": "7.28.1",
+    "@babel/types": "7.28.2",
     "@babel/traverse": "7.28.0",
     "@types/react": "18.3.23",
     "@types/react-dom": "18.3.7"
