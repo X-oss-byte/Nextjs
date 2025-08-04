@@ -94,7 +94,7 @@
     "@types/http-proxy": "1.17.16",
     "@types/jest": "29.5.14",
     "@types/node": "20.19.9",
-    "@types/node-fetch": "2.6.12",
+    "@types/node-fetch": "2.6.13",
     "@types/react": "18.3.23",
     "@types/react-dom": "18.3.7",
     "@types/relay-runtime": "14.1.24",
