@@ -43,7 +43,7 @@
     "conf": "14.0.0",
     "cross-spawn": "7.0.6",
     "fast-glob": "3.3.3",
-    "got": "14.6.0",
+    "got": "14.6.1",
     "picocolors": "1.1.1",
     "prettier-plugin-tailwindcss": "0.7.1",
     "prompts": "2.4.2",
