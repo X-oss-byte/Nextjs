@@ -137,7 +137,7 @@
     "event-stream": "4.0.1",
     "execa": "9.3.0",
     "expect-type": "0.20.0",
-    "express": "4.21.2",
+    "express": "4.22.1",
     "@faker-js/faker": "10.1.0",
     "faunadb": "4.8.2",
     "find-up": "7.0.0",
