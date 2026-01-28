@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@actions/core": "^2.0.0",
-    "@actions/github": "^6.0.0",
+    "@actions/github": "^9.0.0",
     "github-slugger": "2.0.0",
     "gray-matter": "4.0.3",
     "rehype-raw": "7.0.0",
