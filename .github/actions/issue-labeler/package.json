@@ -8,7 +8,7 @@
     "types": "tsc"
   },
   "dependencies": {
-    "@actions/core": "^2.0.0",
+    "@actions/core": "^3.0.0",
     "@actions/github": "^6.0.0"
   },
   "devDependencies": {
