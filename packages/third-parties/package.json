@@ -24,7 +24,7 @@
     "third-party-capital": "1.2.0"
   },
   "devDependencies": {
-    "next": "15.4.10",
+    "next": "16.1.5",
     "outdent": "0.8.0",
     "prettier": "3.8.1"
   },
