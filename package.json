@@ -115,7 +115,7 @@
     "browserslist": "4.28.1",
     "buffer": "6.0.3",
     "chalk": "5.6.2",
-    "cheerio": "1.1.0",
+    "cheerio": "1.2.0",
     "cookie": "0.7.2",
     "cors": "2.8.6",
     "coveralls": "3.1.1",
