@@ -164,7 +164,7 @@
     "lint-staged": "15.5.2",
     "lodash": "4.17.23",
     "lost": "9.0.2",
-    "minimatch": "9.0.7",
+    "minimatch": "9.0.8",
     "moment": "^2.24.0",
     "nanoid": "5.1.6",
     "next": "workspace:*",
