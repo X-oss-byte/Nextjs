@@ -167,7 +167,7 @@
     "@types/content-type": "1.1.9",
     "@types/cookie": "1.0.0",
     "@types/cross-spawn": "6.0.6",
-    "@types/debug": "4.1.12",
+    "@types/debug": "4.1.13",
     "@types/express-serve-static-core": "4.19.8",
     "@types/fresh": "0.5.3",
     "@types/glob": "9.0.0",
