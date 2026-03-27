@@ -83,7 +83,7 @@
     "@svgr/webpack": "8.1.0",
     "@swc/cli": "0.8.0",
     "@swc/core": "1.15.21",
-    "@swc/helpers": "0.5.19",
+    "@swc/helpers": "0.5.20",
     "@testing-library/react": "16.3.2",
     "@types/cheerio": "1.0.0",
     "@types/cookie": "1.0.0",
