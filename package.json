@@ -233,7 +233,7 @@
   "resolutions": {
     "webpack": "5.105.4",
     "browserslist": "4.28.2",
-    "caniuse-lite": "1.0.30001786",
+    "caniuse-lite": "1.0.30001787",
     "@types/node": "20.19.39",
     "@babel/core": "7.29.0",
     "@babel/parser": "7.29.2",
