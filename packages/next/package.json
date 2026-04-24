@@ -306,7 +306,7 @@
     "undici": "6.25.0",
     "unistore": "3.5.2",
     "util": "0.12.5",
-    "uuid": "9.0.1",
+    "uuid": "14.0.0",
     "vm-browserify": "1.1.2",
     "watchpack": "2.5.1",
     "web-vitals": "3.5.2",
