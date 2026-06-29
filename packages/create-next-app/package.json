@@ -36,7 +36,7 @@
     "@types/prompts": "2.4.9",
     "@types/tar": "6.1.13",
     "@types/validate-npm-package-name": "4.0.2",
-    "@vercel/ncc": "0.44.0",
+    "@vercel/ncc": "0.44.1",
     "async-retry": "1.3.3",
     "ci-info": "watson/ci-info#c4e1d0565552fb20ea3c133db2e056a574e78e6b",
     "commander": "12.1.0",
