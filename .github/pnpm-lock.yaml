@@ -98,7 +98,7 @@ importers:
         version: 7.0.0
       minimatch:
         specifier: ^10.0.0
-        version: 10.2.3
+        version: 10.2.6
       node-fetch:
         specifier: ^3.0.0
         version: 3.3.2
@@ -634,8 +634,8 @@ packages:
     resolution: {integrity: sha512-ZDY+bPm5zTTF+YpCrAU9nK0UgICYPT0QtT1NZWFv4s++TNkcgVaT0g6+4R2uI4MjQjzysHB1zxuWL50hzaeXiw==}
     engines: {node: '>= 0.6'}
 
-  minimatch@10.2.3:
-    resolution: {integrity: sha512-Rwi3pnapEqirPSbWbrZaa6N3nmqq4Xer/2XooiOKyV3q12ML06f7MOuc5DVH8ONZIFhwIYQ3yzPH4nt7iWHaTg==}
+  minimatch@10.2.6:
+    resolution: {integrity: sha512-vpLQEs+VLCr1nU0BXS07maYoFwlDAH0gngQuuttxIwutDFEMHq2blX+8vpgxDdK3J1PwjCJiep77OitTZ4Ll1A==}
     engines: {node: 18 || 20 || >=22}
 
   minipass@7.1.2:
@@ -1178,7 +1178,7 @@ snapshots:
     dependencies:
       foreground-child: 3.3.1
       jackspeak: 4.2.3
-      minimatch: 10.2.3
+      minimatch: 10.2.6
       minipass: 7.1.2
       package-json-from-dist: 1.0.1
       path-scurry: 2.0.0
@@ -1454,7 +1454,7 @@ snapshots:
     dependencies:
       mime-db: 1.52.0
 
-  minimatch@10.2.3:
+  minimatch@10.2.6:
     dependencies:
       brace-expansion: 5.0.9
 
