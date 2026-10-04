@@ -134,7 +134,7 @@
     "@babel/runtime": "8.0.5",
     "@babel/traverse": "8.0.6",
     "@babel/types": "8.0.6",
-    "@capsizecss/metrics": "4.0.0",
+    "@capsizecss/metrics": "4.3.0",
     "@edge-runtime/cookies": "6.0.0",
     "@edge-runtime/ponyfill": "4.0.0",
     "@edge-runtime/primitives": "6.0.0",
