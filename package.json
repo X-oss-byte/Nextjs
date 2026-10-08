@@ -97,7 +97,7 @@
     "@types/node-fetch": "2.6.13",
     "@types/react": "18.3.31",
     "@types/react-dom": "18.3.7",
-    "@types/relay-runtime": "14.1.24",
+    "@types/relay-runtime": "20.1.1",
     "@types/selenium-webdriver": "4.35.7",
     "@types/sharp": "0.32.0",
     "@types/string-hash": "1.1.3",
