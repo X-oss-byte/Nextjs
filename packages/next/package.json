@@ -143,7 +143,7 @@
     "@jest/types": "29.6.3",
     "@mswjs/interceptors": "0.45.7",
     "@napi-rs/cli": "3.10.8",
-    "@napi-rs/triples": "2.1.30",
+    "@napi-rs/triples": "2.1.32",
     "@next/polyfill-module": "13.4.17",
     "@next/polyfill-nomodule": "13.4.17",
     "@next/react-dev-overlay": "13.4.17",
