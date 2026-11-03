@@ -58,10 +58,10 @@
     "update-google-fonts": "node ./scripts/update-google-fonts.js"
   },
   "devDependencies": {
-    "@babel/core": "8.0.10",
+    "@babel/core": "8.1.0",
     "@babel/eslint-parser": "8.0.7",
-    "@babel/generator": "8.0.10",
-    "@babel/parser": "8.0.10",
+    "@babel/generator": "8.1.0",
+    "@babel/parser": "8.1.0",
     "@babel/plugin-proposal-object-rest-spread": "7.20.7",
     "@babel/preset-flow": "8.0.1",
     "@babel/preset-react": "8.0.1",
