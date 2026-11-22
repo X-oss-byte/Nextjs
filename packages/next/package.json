@@ -214,7 +214,7 @@
     "compression": "1.8.2",
     "conf": "16.0.0",
     "constants-browserify": "1.0.0",
-    "content-disposition": "3.0.0",
+    "content-disposition": "3.1.0",
     "content-type": "3.1.1",
     "cookie": "2.0.2",
     "cross-spawn": "7.0.6",
