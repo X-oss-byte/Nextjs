@@ -31,7 +31,7 @@
     }
   },
   "devDependencies": {
-    "@napi-rs/cli": "3.11.0",
+    "@napi-rs/cli": "3.11.1",
     "cross-env": "10.1.0"
   }
 }
